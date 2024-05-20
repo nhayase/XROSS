@@ -1,11 +1,11 @@
 # HYS
 This is the HYS comment.
 
-# Algorithm
+## Algorithm
 Be sure that
 
-# User interface
+## User interface
 Easy use
 
-# Reference
-Naoki Hayase, Tetsuo Harada, "Beyond EUV binary and phase shift masks simulation", Proc. SPIE (2024).
+## Reference
+[1] Naoki Hayase, Tetsuo Harada, "Beyond EUV binary and phase shift masks simulation", Proc. SPIE (2024).
