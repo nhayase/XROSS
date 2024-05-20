@@ -1,5 +1,7 @@
 # HYS
-This is the HYS comment.
+This is the HYS comment. Of course it is completely free-cost and open source, 
+
+Please cite "HYS, arXiv (2024), (https://github.com/nhayase/HYS/)" when you use!!
 
 ## Algorithm
 Be sure that
