@@ -10,8 +10,8 @@ Be sure that
 Easy use
 
 ## Programming
-Merits of the HYS is preferred physics formulation can be introduced by your hand wiout any tedious preparation.
-We should write down your physics model as follow.
+Merits of the HYS is preferred physics formula with some parametres can be introduced by your hand without any tedious preparation.
+You should write down your physics model as follow.
 
 (1) Write "import hys" at first.
 
