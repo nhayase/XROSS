@@ -7,15 +7,17 @@ Please cite "HYS, arXiv (2024), (https://github.com/nhayase/HYS/)" when you use!
 Be sure that
 
 ## User interface
-Easy use
+You can design mulltilayer structures.
+
+Further operation is written in PDF manual.
 
 ## Programming
-Merits of the HYS is preferred physics formula with some parametres can be introduced by your hand without any tedious preparation.
+The merit of the HYS is preferred physics formula with some parametres can be introduced by your hand without any tedious preparation.
 You should write down your physics model as follow.
 
-(1) Write "import hys" at first.
+(1) Write "import hys" in your Python file (such as Spyder).
 
-(2) 
+(2) def_parametre & def_formula
 
 (3) Put your written files into the folder.
 
