@@ -3,17 +3,13 @@ HYS is the Python-based nanoscale multilayer simulator that is completely free a
 
 Please cite "HYS, arXiv (2024), (https://github.com/nhayase/HYS/)" when you use!!
 
-## Algorithm
-Be sure that
+## Honor code
+Prohibited for use in criminal or immoral activities.
 
-## User interface
-You can design mulltilayer structures.
+Notify the author if you are using it for business purposes.
 
-Further operation is written in PDF manual.
-
-## Programming
-The merit of the HYS is preferred physics formula with some parametres can be introduced by your hand without any tedious preparation.
-You should write down your physics model as follow.
+## Installation
+You can get HYS without any tedious preparation as follow.
 
 (1) Write "import hys" in your Python file (such as Spyder).
 
