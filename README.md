@@ -4,9 +4,9 @@ HYS is the Python-based nanoscale multilayer simulator that is completely free a
 Please cite "HYS, arXiv (2024), (https://github.com/nhayase/HYS/)" when you use!!
 
 ## Honor code
-Prohibited for use in criminal or immoral activities.
+・Prohibited for use in criminal or immoral activities.
 
-Notify the author if you are using it for business purposes.
+・Notify the author if you are using it for business purposes.
 
 ## Installation
 You can get HYS without any tedious preparation as follow.
