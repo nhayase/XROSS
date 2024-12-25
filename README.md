@@ -1,21 +1,25 @@
-# HYS
-HYS is the Python-based simulator for nanoscale multilayer. It is completely free and open source. 
+# Filmtech
+Filmtech is the Python-based nanoscale multilayer simulator. It is completely free and open source. 
 
 ## Honor code
 ・Prohibited for use in criminal or immoral activities.
 
 ・Please cite as follow when you use!
   
-  "Naoki Hayase, "HYS - Python-based nanoscale multilayer simulator," arXiv (2024), (https://github.com/nhayase/HYS/)"
+  "Naoki Hayase, "Filmtech - Python-based nanoscale multilayer simulator," arXiv (2024), (https://github.com/nhayase/Filmtech/)"
 
 ## Installation
-You can get HYS without any tedious preparation as follow.
 
-(1) Write "import hys" in your Python file (such as Spyder).
+(1) Click "Filmtech.exe".
 
 (2) def_parametre & def_formula
 
-(3) Put your written files into the folder.
+## Usage
+
+(1) Instllation from this site.
+
+(2) def_parametre & def_formula
 
 ## Reference
-[1] Naoki Hayase, Tetsuo Harada, "Beyond EUV binary and phase shift masks simulation", Proc. SPIE (2024).
+[1] Naoki Hayase, Tetsuo Harada, "Beyond EUV binary and phase shift masks simulation," Proc. SPIE (2024).
+[2] Naoki Hayase, Tetsuo Harada, "Background level theory for EUV multilayer deposition," Proc. SPIE (2025).
