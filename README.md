@@ -1,16 +1,16 @@
 # XROSS
-XROSS is the Python-based simulator for X-ray optics. It is completely free and open source. 
+XROSS is the Python-based simulator for X-ray optics. It is completely free and open source software. 
 
 ## Honor code
 ・Prohibited for use in criminal or immoral activities.
 
-・Please cite as follow when you use!
+・Please cite as follow when you use.
   
-  "Naoki Hayase, "Filmtech - Python-based nanoscale multilayer simulator," arXiv (2024), (https://github.com/nhayase/Filmtech/)"
+  "Naoki Hayase, "XROSS - X-Ray Optics Simulation Software," arXiv (2024), (https://github.com/nhayase/Filmtech/)"
 
 ## Installation
 
-(1) Click "Filmtech.exe".
+(1) Click "xross.exe".
 
 (2) To customize the code, it needs to install Python, and IDE (such as Anaconda).
 
