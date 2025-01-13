@@ -1,5 +1,5 @@
-# Filmtech
-Filmtech is the Python-based nanoscale multilayer simulator. It is completely free and open source. 
+# XROSS
+XROSS is the Python-based simulator for X-ray optics. It is completely free and open source. 
 
 ## Honor code
 ・Prohibited for use in criminal or immoral activities.
