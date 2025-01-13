@@ -1,11 +1,6 @@
 # XROSS
 XROSS is the Python-based simulator for X-ray optics. It is completely free and open source software. 
-
-## Honor code
-・Prohibited for use in criminal or immoral activities.
-
-・Please cite as follow when you use.
-  
+Please cite as follow when you use.  
     "Naoki Hayase, "XROSS - X-Ray Optics Simulation Software," arXiv (2024)"
 
 ## Installation
