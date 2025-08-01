@@ -28,7 +28,7 @@ Please cite it as follows when using it in your publications and presentations:
 
 (3) XRR analysis → Open XRR Analysis Window from the main window. You need to load .xrfml file & "Run".
 
-(3) XRR analysis → Open Deposition Window from the main window. You need to setup optical parameters & Run.
+(4) Deposition Optimization → Open Deposition Window from the main window. You need to setup optical parameters & Run.
 
 ## Reference
 
