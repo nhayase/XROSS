@@ -8,9 +8,9 @@ Please cite as follow when you use for your publications & presentations.
 
 ## Installation
 
-(1) Download from here & you can get "xross.exe" in the top folder.
+(1) Download from here ("xross" folder containing folders of "art", "doc", "geo", "icon", "save", "xrr" and log.txt, xross.exe).
 
-(2) Click "xross.exe".
+(2) Click "xross.exe" in the top folder.
 
 ## Usage
 
