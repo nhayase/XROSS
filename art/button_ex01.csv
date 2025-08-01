@@ -1,0 +1,11 @@
+Category,Name,Row,Col,Width,Position
+Button,Add Layer,0.0,0.0,,
+Button,Delete Layer,0.0,1.0,,
+Button,Add Subroutine,0.0,2.0,,
+Button,Del Subroutine,0.0,3.0,,
+Button,Up,0.0,4.0,,
+Button,Down,0.0,5.0,,
+Button,All Clear,1.0,0.0,,
+Button,Log Window,1.0,1.0,,
+Button,Depiction,1.0,2.0,,
+Column,energy,,,15.0,7.0
