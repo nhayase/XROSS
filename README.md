@@ -4,7 +4,7 @@ You can simulate EUV reflectivity, X-ray reflectivity (XRR) analysis, and nanosc
 
 Please cite as follow when you use for your publications & presentations.  
 
-    Naoki Hayase, "XROSS - X-Ray Optics Simulation Software," arXiv (2024)
+    Naoki Hayase, "XROSS - X-Ray Optics Simulation Software," arXiv (2025).
 
 ## Installation
 
@@ -15,9 +15,14 @@ Please cite as follow when you use for your publications & presentations.
 ## Usage
 
 (1) Modelling a structure by "Layer" (a single layer) & "Subroutine" (a multilayer) on the main window.
-→ When you need to delete "Layer" or "Subroutine", click the toggles (& it changes the color) on the left side.
-→ You can save your models as csv files and load them.
-→ When you save files, it is automatically logged on the Log Window & written in text files on the top folder next to "xross.exe".
+
+→ When you modify an arrangement of "Layer" & "Subroutine", click the toggles (& it changes blue color) on the left side & click "Up" or "Down".
+
+→ When you need to delete "Layer" or "Subroutine", click the toggles on the left side & click "Delete Layer" or "Del Subroutine".
+
+→ After modelling, you can save your models as csv files and load them.
+
+→ When you save files, it is logged on the Log Window & written in text files on the top folder next to "xross.exe".
 
 (2) EUV reflectivity → Open EUV Optics Window from the main window. You need to setup optical parameters & "Calculation".
 
@@ -32,6 +37,7 @@ Please cite as follow when you use for your publications & presentations.
 [2]	L. G. Parratt, “Surface studies of solids by total reflection of X-rays,” Physical Review, 95(2), 359. (1954).
 
 [3] O. V. Penkov, M. Li, S. Mikki, A. Devizenko, I. Kopylets, “X-Ray Calc 3: improved software for simulation and inverse problem solving for X-ray reflectivity,” Journal of Applied Crystallography, 57(2), 555-566 (2024).
+
 [4] T. Akiba, S. Sano, T. Yanase, T. Ohta, M. Koyama, “Optuna: A next-generation hyperparameter optimization framework,” Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining, 2623-2631 (2019).
 
 [5] F. Lundh, "An introduction to tkinter," www.pythonware.com/library/tkinter/introduction/index.htm (1999).
