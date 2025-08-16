@@ -17,21 +17,33 @@ Please cite it as follows when using it in your publications and presentations:
 ### 1. Modelling 
 → Modelling a structure by "Layer" (a single layer) & "Subroutine" (a multilayer) on the main window.
 
-→ When you modify an arrangement of "Layer" & "Subroutine", click the toggles (& it changes blue color) on the left side & click "Up" or "Down".
+→ Right-click on "Subroutine", you can setup a number of pairs (& its name) as a multilayer.
 
-→ When you need to delete "Layer" or "Subroutine", click the toggles on the left side & click "Delete Layer" or "Del Subroutine".
+→ Click the toggles (it changes blue color) on the left side of "Layer", you can modify an arrangement of them & click "Up" or "Down".
 
-→ After modelling, you can save your models as csv files and load them.
+→ Click the toggles & "Delete Layer" or "Del Subroutine", you can delete them.
+
+→ You can save your model as csv files and load them.
 
 → When you save files, it is logged on the Log Window & written in text files on the top folder next to "xross.exe".
 
 ### 2. EUV reflectivity 
-→ Open EUV Optics Window from the main window. You need to setup optical parameters & "Calculation".
+→ Open EUV Optics Window. 
+
+→ Modelling or Load your model on the main menu. 
+
+→ Check-in your tests after fulfill the value & click "Calculation".
 
 ### 3. XRR analysis 
-→ Open XRR Analysis Window from the main window. You need to load .xrfml file & "Run".
+→ Open XRR Analysis Window. 
+
+→ Modelling or Load your model on the main menu.
+
+→ Load .xrfml file & click "Run".
 
 ### 4. Deposition Optimization 
-→ Open Deposition Window from the main window. You need to setup optical parameters & Run.
+→ Open Deposition Window. 
+
+→ You need to setup optical parameters & Run.
 
 
