@@ -8,7 +8,7 @@ Please cite it as follows when using it in your publications and presentations:
 
 ## Installation
 
-(1) Download "xross" folder (containing folders of "art", "doc", "geo", "icon", "save", "xrr" and log.txt, xross.exe).
+(1) Download "xross" folder (containing folders of "art", "doc", "geo", "icon", "save", "xrr" and log.txt, xross.py, xross.exe).
 
 (2) Click "xross.exe".
 
@@ -30,19 +30,4 @@ Please cite it as follows when using it in your publications and presentations:
 
 (4) Deposition Optimization → Open Deposition Window from the main window. You need to setup optical parameters & Run.
 
-## Reference
-
-[1]	D. L. Windt, IMD—Software for modeling the optical properties of multilayer films. Computers in physics, 12(4), 360-370 (1998). 
-
-[2]	L. G. Parratt, “Surface studies of solids by total reflection of X-rays,” Physical Review, 95(2), 359. (1954).
-
-[3] O. V. Penkov, M. Li, S. Mikki, A. Devizenko, I. Kopylets, “X-Ray Calc 3: improved software for simulation and inverse problem solving for X-ray reflectivity,” Journal of Applied Crystallography, 57(2), 555-566 (2024).
-
-[4] T. Akiba, S. Sano, T. Yanase, T. Ohta, M. Koyama, “Optuna: A next-generation hyperparameter optimization framework,” Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining, 2623-2631 (2019).
-
-[5] F. Lundh, "An introduction to tkinter," www.pythonware.com/library/tkinter/introduction/index.htm (1999).
-
-[6] N. Hayase, T. Harada, “Beyond EUV binary and phase shift masks simulation”, Proc. SPIE, Vol. 13177, (2024).
-
-[7] N. Hayase, T. Harada, “EUV scattering analysis of surface growth in multilayer via the KPZ equation,” (to be published).
 
