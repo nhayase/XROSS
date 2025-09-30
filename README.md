@@ -8,9 +8,9 @@ Please cite the follow when using it in your publications and presentations:
 
 ## Installation
 
-(1) "<> Code" → "Download Zip" (containing folders of "art", "doc", "geo", "nk", "save", "xrr" and favicon.ico, log.txt, xross.py, xross.exe).
+(1) "<> Code" → "Download Zip" 
 
-(2) Click "xross.exe".
+(2) Click "xross.exe"
 
 ## Usage
 
