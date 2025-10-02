@@ -13,7 +13,7 @@ Please cite the follow when using XROSS:
 
 (1) "<> Code" from This page → "Download Zip" (xross folder)
 
-(2) Download "xross_v1.0.0" from https://drive.google.com/drive/folders/1YtoVHmQieD8p5IAknBXzYK9AIeAqTf2d?usp=drive_link
+(2) Download "xross_v1.0.0" folder including "xross_v1.0.0.exe" from https://drive.google.com/drive/folders/1YtoVHmQieD8p5IAknBXzYK9AIeAqTf2d?usp=drive_link
 
 (3) You need to put "xross_v1.0.0" into "xross" folder
 
