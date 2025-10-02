@@ -49,6 +49,6 @@ Please cite the follow when using XROSS:
 ### 4. Deposition Optimization (Under construction)
 → Open Deposition Window. 
 
-→ You need to setup optical parameters & Run.
+→ Need to setup optical parameters & Run.
 
 
