@@ -1,5 +1,7 @@
 XROSS – X-Ray Optics Simulation Software
-Naoki Hayase1
+
+Naoki Hayase
+
 1 Center for EUV Lithography, LASTI, University of Hyogo, Ako-gun, Kouto, Hyogo, 651-2492, Japan.
 
 Summary
