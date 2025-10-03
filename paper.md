@@ -1,8 +1,8 @@
 XROSS – X-Ray Optics Simulation Software
 
-Naoki Hayase
+Naoki Hayase 1)
 
-1 Center for EUV Lithography, LASTI, University of Hyogo, Ako-gun, Kouto, Hyogo, 651-2492, Japan.
+1) Center for EUV Lithography, LASTI, University of Hyogo, Ako-gun, Kouto, Hyogo, 651-2492, Japan.
 
 Summary
 We present XROSS, a Python‑based X‑ray optics simulator designed for evaluating of nanoscale thin films. XROSS provides a user‑friendly interface that integrates (i) calculation of optical properties and X‑ray reflectivity (XRR), (ii) particle swarm optimization (PSO)‑assisted XRR analysis, and (iii) deposition process optimization via surface growth models. Our key contribution is the high‑precision estimation of thin film density that governs the complex refractive index in the X‑ray regime. In this study, we use black‑box optimization with the Optuna library, achieving half runtime XRR fitting than conventional PSO. We also apply Optuna to deposition process optimization for simulating thin film roughness and density based on statistical physics; the Kardar-Parisi-Zhang (KPZ) equation and the solid-on-solid (SOS) model. These simulations improve the prediction of thin film density by fitting the density scan from surface growth and complex refractive index from reflectivity. 
