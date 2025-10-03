@@ -13,7 +13,7 @@ We propose an optimal deposition simulation of surface roughness and scattered l
 Usage
 XROSS user interface is built by the Python library tkinter (F. Lundh, 1999), and structure models are built by “Layer” and “Subroutine” enabling to set several parameters in the XROSS window: refractive index, extinction coefficient, thickness, density, and roughness. Prepared models can save them as csv files. The log window from the main window displays a message when commands are executed and save file history in the text file. The EUV optics window calling from the main window, and we can simulate a reflectivity at an arbitrary wavelength. XROSS has proven a calculation for beyond EUV multilayers at 6.7 nm wavelength (N. Hayase et al., 2024).
 The XRR analysis window and XROSS requires an evaluated model and XRR experimental data (.xrdml file). When “Run” is executed, a fitting curve is draw in a graph and the degree of agreement between the fitting curves is determined by the chi-square value. The coefficients of the fitting curve in simulations are output as csv files. The number of trials can be set and repeated for the minimization until the chi-square becomes saturated.
-In the deposition window, we assume the solid-on solid model which particles are flight and attach at random to lattice points in a plane and output analytical values by the KPZ equation. We show the surface growth model in 2+1 dimensions by material parameters: roughness, surface energy, and crystallinity as deposition process (N. Hayase et al., 2025).
+In the deposition window, we assume the solid-on solid model which particles are flight and attach at random to lattice points in a plane and output analytical values by the KPZ equation. We show the surface growth model in 2+1 dimensions by material parameters: roughness, surface energy, and crystallinity as deposition process.
 
 Acknowledgements
 This work was supported by the research grant from Hyogo Earthquake Memorial 21st Century Research Institute, Japan.
@@ -27,6 +27,5 @@ References
 6.	F. Lundh, "An introduction to tkinter,"
 www.pythonware.com/library/tkinter/introduction/index.htm (1999).
 7.	N. Hayase, T. Harada, “Beyond EUV binary and phase shift masks simulation”, Proc. SPIE, Vol. 13177, (2024).
-8.	N. Hayase, T. Harada, “EUV scattering analysis of surface growth in multilayer via the KPZ equation,” (to be published).
 
 
