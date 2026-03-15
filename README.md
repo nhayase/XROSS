@@ -5,17 +5,13 @@ Please cite the follow when using XROSS:
 
     Naoki Hayase, "XROSS - X-Ray Optics Simulation Software," Submitted (2025).
 
-## News
-
-2025/09/30 source code v1.0.0 upload 
-
 ## Installation
 
 (1) "<> Code" from This page → "Download Zip" (xross folder)
 
-(2) Download "xross_v1.0.0" folder including "xross_v1.0.0.exe" from https://drive.google.com/drive/folders/1YtoVHmQieD8p5IAknBXzYK9AIeAqTf2d?usp=drive_link
+(2) Install Python with Anaconda, and compile XROSS.spec to xross.exe
 
-(3) Need to put "xross_v1.0.0" folder into "xross" folder
+(3) Or you can directly download exe file from https://euvmask.com
 
 ## Usage
 
