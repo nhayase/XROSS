@@ -9,9 +9,13 @@ Please cite the follow when using the XROSS:
 
 (1) "<> Code" from This page → "Download Zip"
 
-(2) Install Python with Anaconda, and compile XROSS.spec to xross.exe
+(2) Install Python with Anaconda, and open Anaconda Prompt
 
-(3) Or you can directly download exe files from https://euvmask.com
+(3) Type as follows;
+
+    cd C:\Users\YOUR NAME\XROSS-main\XROSS_v2.0.1\xross_project
+
+    python -m PyInstaller --noconfirm --distpath dist --workpath build_tmp build_exe\XROSS.spec
 
 ## Usage
 
