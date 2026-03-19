@@ -11,42 +11,31 @@ Please cite the follow when using the XROSS:
 
 (2) Install Python with Anaconda, and compile XROSS.spec to xross.exe
 
-(3) Or you can directly download exe file from https://euvmask.com
+(3) Or you can directly download exe files from https://euvmask.com
 
 ## Usage
 
 [![alt設定](http://img.youtube.com/vi/{video-id}/0.jpg)](https://www.youtube.com/watch?v=fLUur_ONuyM={video-id})
 
 ### 1. Modelling 
-→ Modelling a structure by "Layer" (a single layer) & "Subroutine" (a multilayer) on the main window.
+Modelling a structure by "Layer" (a single layer) & "Subroutine" (a multilayer) on the main window.
+You can save your model as csv files and load them.
 
-→ Right-click on "Subroutine", you can setup a number of pairs (& its name) as a multilayer.
+### 2. EUV optics window 
+Open EUV optics window from the source, and prepare your model on the main menu. 
+Check-in only one checkbox, and click "Calculation".
 
-→ Click the toggles (it changes blue color) on the left side of "Layer", you can modify an arrangement of them & click "Up" or "Down".
+### 3. XRR analysis window
+Open XRR analysis window from the source, and prepare your model on the main menu.
+Load measured file on the button from XRR analysis window, and click "Run".
 
-→ Click the toggles & "Delete Layer" or "Del Subroutine", you can delete them.
+### 4. Optimization window
+Open XRR analysis window from the source.
+You need to prepare a csv file which contain parameters with each names.
+You just follow the window guide.
 
-→ You can save your model as csv files and load them.
-
-→ When you save files, it is logged on the Log Window & written in text files on the top folder next to "xross.exe".
-
-### 2. EUV reflectivity 
-→ Open EUV Optics Window. 
-
-→ Modelling or Load your model on the main menu. 
-
-→ Check-in your tests after fulfill the value & click "Calculation".
-
-### 3. XRR analysis 
-→ Open XRR Analysis Window. 
-
-→ Modelling or Load your model on the main menu.
-
-→ Load .xrfml file & click "Run".
-
-### 4. Deposition Optimization (Under construction)
-→ Open Deposition Window. 
-
-→ Need to setup optical parameters & Run.
-
+### 5. Image analyze window
+Open XRR analysis window from the source, and upload an image file on Image analyze window.
+Click "Confirm" button or image itself, you can see yellow square.
+Click "Run" and you can get 512 tone heatmap in the square and its csv file.
 
