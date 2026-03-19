@@ -1,7 +1,7 @@
-# XROSS
-XROSS is completely free and open source software for X-ray optics. 
+# XROSS - X-Ray Optics Simulation Software
+The XROSS is completely free and open source software for X-ray optics. 
 
-Please cite the follow when using XROSS:  
+Please cite the follow when using the XROSS:  
 
     Naoki Hayase, "XROSS - X-Ray Optics Simulation Software," Submitted (2025).
 
