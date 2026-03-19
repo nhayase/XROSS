@@ -7,15 +7,13 @@ Please cite the follow when using the XROSS:
 
 ## Installation
 
-(1) "<> Code" from This page → "Download Zip" (xross folder)
+(1) "<> Code" from This page → "Download Zip"
 
 (2) Install Python with Anaconda, and compile XROSS.spec to xross.exe
 
 (3) Or you can directly download exe files from https://euvmask.com
 
 ## Usage
-
-[![alt設定](http://img.youtube.com/vi/{video-id}/0.jpg)](https://www.youtube.com/watch?v=fLUur_ONuyM={video-id})
 
 ### 1. Modelling 
 Modelling a structure by "Layer" (a single layer) & "Subroutine" (a multilayer) on the main window.
