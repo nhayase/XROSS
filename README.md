@@ -23,6 +23,8 @@ Please cite the follow when using the XROSS:
 Modelling a structure by "Layer" (a single layer) & "Subroutine" (a multilayer) on the main window.
 You can save your model as csv files and load them.
 
+!["xross_main_window"]("paper")
+
 ### 2. EUV optics window 
 Open EUV optics window from the source, and prepare your model on the main menu. 
 Check-in only one checkbox, and click "Calculation".
