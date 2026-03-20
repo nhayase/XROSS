@@ -29,6 +29,8 @@ You can save your model as csv files and load them.
 Open EUV optics window from the source, and prepare your model on the main menu. 
 Check-in only one checkbox, and click "Calculation".
 
+![xross_main_window](paper/xross_euv_optics.png)
+
 ### 3. XRR analysis window
 Open XRR analysis window from the source, and prepare your model on the main menu.
 Load measured file on the button from XRR analysis window, and click "Run".
