@@ -13,7 +13,7 @@ Please cite the follow when using the XROSS:
 
 (3) Type as follows;
 
-    cd C:\Users\YOUR NAME\XROSS-main\
+    cd C:\Users\YOUR NAME\XROSS-main\XROSS-main
 
     python -m PyInstaller --noconfirm --distpath dist --workpath build_tmp build_exe\XROSS.spec
 
